@@ -3,7 +3,8 @@
 Verifique a força de senhas em tempo real, receba recomendações de segurança e descubra se sua senha já vazou em bases públicas usando a API do [HaveIBeenPwned](https://haveibeenpwned.com).
 
 ## 📸 Captura de tela
-![Screenshot](screenshot.png)
+<img width="451" height="380" alt="image" src="https://github.com/user-attachments/assets/a4f5a41f-b261-4878-aab8-2c7bdfd24eaf" />
+
 
 ## 🧠 Funcionalidades
 
