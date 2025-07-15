@@ -24,7 +24,7 @@ Verifique a força de senhas em tempo real, receba recomendações de segurança
 
 ### 1. Clone o projeto
 ```bash
-git clone https://github.com/mgsfarias/password-strength-tester.git
+git clone https://github.com/mgsfarias/PasswordStrengthTester.git
 cd PasswordStrengthTester
 ```
 
