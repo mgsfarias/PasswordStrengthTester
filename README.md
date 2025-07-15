@@ -15,7 +15,7 @@ Verifique a força de senhas em tempo real, receba recomendações de segurança
 
 ## 🛠️ Tecnologias Usadas
 
-- Python 3.x
+- Python 3.11
 - [`ttkbootstrap`](https://github.com/israel-dryer/ttkbootstrap) para interface estilizada
 - `requests` para acesso à API do HaveIBeenPwned
 - `hashlib` para hashing de senha SHA-1
@@ -24,8 +24,8 @@ Verifique a força de senhas em tempo real, receba recomendações de segurança
 
 ### 1. Clone o projeto
 ```bash
-git clone https://github.com/seu-usuario/password-strength-tester.git
-cd password-strength-tester
+git clone https://github.com/mgsfarias/password-strength-tester.git
+cd PasswordStrengthTester
 ```
 
 ### 2. Instale as dependências
@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 ### 3. Execute
 ```bash
-python app.py
+python app_v3.py
 ```
 
 ## 🔄 Funcionalidades Futuras
@@ -49,8 +49,8 @@ python app.py
 ## 📁 Organização do Projeto
 
 ```
-password-strength-tester/
-├── app.py               # Script principal da aplicação
+PasswordStrengthTester/
+├── app_v3.py            # Script principal da aplicação
 ├── requirements.txt     # Dependências
 └── README.md            # Documentação
 ```
