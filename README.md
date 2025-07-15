@@ -50,7 +50,9 @@ python app_v3.py
 
 ```
 PasswordStrengthTester/
-├── app_v3.py            # Script principal da aplicação
+├── app_v1.py            # Codigo com a ideia inicial
+├── app_v2.py            # Codigo melhorado com novas funcionalidades
+├── app_v3.py            # Codigo principal da aplicação final
 ├── requirements.txt     # Dependências
 └── README.md            # Documentação
 ```
